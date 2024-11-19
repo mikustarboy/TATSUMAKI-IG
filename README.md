@@ -7,24 +7,17 @@
 Instaling :
 
 
-
 [+] pip install requests
-
 
 [+] pip install bs4
 
-
 [+] pip install rich
-
 
 [+] pip install stdiomask
 
-
 [+]git clone --depth=1 https://github.com/mikustarboy/TATSUMAKI-IG.git
 
-
 [+] cd TATSUMAKI-IG
-
 
 [+] python Run.py
 
